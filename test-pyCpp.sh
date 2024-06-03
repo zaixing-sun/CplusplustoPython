@@ -53,8 +53,7 @@ sleep 25
 
 
 cd CplusplustoPython
-pip install pybind11    
-c++ -O3 -Wall -shared -std=c++11 -fPIC $(python3 -m pybind11 --includes) example.cpp -o example$(python3-config --extension-suffix)
+g++ -o libpycallC_replace.so -shared -fPIC pycallC_replace.cpp
 
 python pyCallCpp.py
 
