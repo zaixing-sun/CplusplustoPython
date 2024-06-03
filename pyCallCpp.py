@@ -22,6 +22,7 @@ lib = so("./libpycallC_replace.so")
 
 lib.replace_string.argtypes = [ctypes.c_char_p, ctypes.c_char_p, ctypes.c_char_p]
 lib.replace_string.restype = ctypes.c_char_p
+
 print(lib.replace_string(text,to_search,replace_with))
 
 # print(lib.replace_string(ctypes.c_char_p(text),ctypes.c_char_p(to_search),ctypes.c_char_p(replace_with)))

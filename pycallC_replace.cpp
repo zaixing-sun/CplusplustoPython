@@ -3,6 +3,9 @@
 #include <string>
 #include <regex>
 #include <chrono>
+#include <cstring>
+// #include <cstdlib>
+// #include <stdio.h>
 using namespace std;
 
 class TestLib
@@ -42,6 +45,17 @@ string TestLib::replace_szx(string text, string to_search, string replace_with) 
     return text;
 }
 
+char* strdup(const char* str){
+    if (str == nullptr){
+        return nullptr;
+    }
+    size_t len = std::strlen(str) + 1;
+    char* copy = new char[len];
+    std::memcpy(copy, str, len);
+    return copy;
+}
+
+
 extern "C" {
     TestLib obj;
     char* replace_string(char* text, char* to_search, char* replace_with) {
@@ -52,6 +66,7 @@ extern "C" {
         string to_search_S = to_search_C;
         string replace_with_S = replace_with_C;
         string result = obj.replace_szx(text_S,to_search_S,replace_with_S);
+        // return (char*)result.data();
         return strdup(result.c_str());
         // return obj.replace_szx(text_S,to_search_S,replace_with_S);
     }
