@@ -2,6 +2,25 @@ import ctypes
 import os
 import numpy as np
 
+# g++ -shared -o expression_evaluator.so -fPIC expression_evaluator.cpp
+
+
+
+# import subprocess
+
+# # 读取C++代码
+# with open("expression_evaluator.txt", "r") as file:
+#     cpp_code = file.read()
+
+# # 将C++代码写入文件
+# cpp_file = "expression_evaluator.cpp"
+# with open(cpp_file, "w") as file:
+#     file.write(cpp_code)
+
+# # 编译C++代码
+# subprocess.run(["g++", "-shared", "-o", "expression_evaluator.so", "-fPIC", cpp_file], check=True)
+
+
 # Load the shared library
 if os.name == 'nt':
     expression_evaluator  = ctypes.CDLL('./expression_evaluator.dll')
