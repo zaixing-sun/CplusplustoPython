@@ -1,0 +1,2340 @@
+==============================================================
+job_number:                 4377147
+exec_file:                  job_scripts/4377147
+submission_time:            Sat Apr 13 03:29:32 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /home/zhangyuye
+sge_o_host:                 one-red-dog
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@one-red-dog.sms.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   15,200.0,10,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=546:55:18, mem=120413.08421 GB s, io=17.00914 GB, vmem=805.281M, maxvmem=2.554G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435736
+exec_file:                  job_scripts/4435736
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   0,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=1293:19:45, mem=652256.65602 GB s, io=36.25056 GB, vmem=516.648M, maxvmem=2.023G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435737
+exec_file:                  job_scripts/4435737
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   1,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=1752:52:43, mem=647241.11816 GB s, io=31.95501 GB, vmem=811.250M, maxvmem=4.019G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435739
+exec_file:                  job_scripts/4435739
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   3,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=503:31:16, mem=170485.06114 GB s, io=21.53516 GB, vmem=1.722G, maxvmem=3.906G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435741
+exec_file:                  job_scripts/4435741
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   5,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=1049:32:06, mem=390053.71300 GB s, io=29.27458 GB, vmem=590.059M, maxvmem=2.601G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435743
+exec_file:                  job_scripts/4435743
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   7,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=2582:24:59, mem=1004835.04567 GB s, io=37.87732 GB, vmem=883.344M, maxvmem=4.469G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435744
+exec_file:                  job_scripts/4435744
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   8,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=1252:56:54, mem=427481.61588 GB s, io=38.63016 GB, vmem=1.071G, maxvmem=1.887G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435745
+exec_file:                  job_scripts/4435745
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   9,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=04:35:51, mem=988.03941 GB s, io=16.22297 GB, vmem=777.258M, maxvmem=777.258M
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435746
+exec_file:                  job_scripts/4435746
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   10,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=1404:39:06, mem=502783.06139 GB s, io=31.47308 GB, vmem=1.169G, maxvmem=3.444G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435747
+exec_file:                  job_scripts/4435747
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   11,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=3448:56:39, mem=987510.53649 GB s, io=33.68065 GB, vmem=1.549G, maxvmem=5.631G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435750
+exec_file:                  job_scripts/4435750
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   14,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=2531:27:38, mem=872200.00865 GB s, io=28.22510 GB, vmem=702.789M, maxvmem=3.847G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435751
+exec_file:                  job_scripts/4435751
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   15,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=484:17:50, mem=216266.09232 GB s, io=31.77200 GB, vmem=856.484M, maxvmem=3.621G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435754
+exec_file:                  job_scripts/4435754
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   18,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=974:44:30, mem=332815.66366 GB s, io=34.58664 GB, vmem=1.529G, maxvmem=7.174G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435756
+exec_file:                  job_scripts/4435756
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   20,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=784:25:09, mem=322450.32962 GB s, io=31.36916 GB, vmem=720.699M, maxvmem=2.666G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435757
+exec_file:                  job_scripts/4435757
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   21,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=1159:35:43, mem=357916.19725 GB s, io=35.20459 GB, vmem=726.684M, maxvmem=2.407G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435759
+exec_file:                  job_scripts/4435759
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   23,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=12:40:01, mem=10052.53028 GB s, io=16.45548 GB, vmem=2.886G, maxvmem=3.929G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435761
+exec_file:                  job_scripts/4435761
+submission_time:            Fri May 17 22:25:14 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   25,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=836:27:37, mem=247015.94196 GB s, io=21.97680 GB, vmem=1.141G, maxvmem=5.309G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435767
+exec_file:                  job_scripts/4435767
+submission_time:            Fri May 17 22:25:14 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   1,200.0.20,20,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=1502:35:11, mem=469161.78566 GB s, io=24.76450 GB, vmem=810.980M, maxvmem=4.296G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435769
+exec_file:                  job_scripts/4435769
+submission_time:            Fri May 17 22:25:14 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   3,200.0.20,20,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=2484:40:35, mem=894293.07817 GB s, io=35.11127 GB, vmem=1.292G, maxvmem=4.455G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435771
+exec_file:                  job_scripts/4435771
+submission_time:            Fri May 17 22:25:14 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   5,200.0.20,20,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=2119:07:47, mem=574423.10957 GB s, io=23.12637 GB, vmem=1.089G, maxvmem=5.210G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435773
+exec_file:                  job_scripts/4435773
+submission_time:            Fri May 17 22:25:14 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   7,200.0.20,20,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=2493:58:22, mem=867290.37857 GB s, io=30.48429 GB, vmem=747.520M, maxvmem=3.703G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435774
+exec_file:                  job_scripts/4435774
+submission_time:            Fri May 17 22:25:14 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   8,200.0.20,20,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=26:36:54, mem=11306.07865 GB s, io=19.75391 GB, vmem=3.222G, maxvmem=3.601G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435777
+exec_file:                  job_scripts/4435777
+submission_time:            Fri May 17 22:25:14 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   11,200.0.20,20,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=1778:51:34, mem=561272.03593 GB s, io=31.23625 GB, vmem=646.016M, maxvmem=2.402G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435780
+exec_file:                  job_scripts/4435780
+submission_time:            Fri May 17 22:25:14 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   14,200.0.20,20,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=2033:31:07, mem=614878.32540 GB s, io=28.95332 GB, vmem=1.873G, maxvmem=7.272G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435781
+exec_file:                  job_scripts/4435781
+submission_time:            Fri May 17 22:25:14 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   15,200.0.20,20,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=3467:37:05, mem=1127627.30770 GB s, io=37.11276 GB, vmem=1.259G, maxvmem=10.495G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435782
+exec_file:                  job_scripts/4435782
+submission_time:            Fri May 17 22:25:14 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   16,200.0.20,20,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=1328:24:56, mem=439619.20852 GB s, io=31.75745 GB, vmem=1.247G, maxvmem=5.067G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4377147
+exec_file:                  job_scripts/4377147
+submission_time:            Sat Apr 13 03:29:32 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /home/zhangyuye
+sge_o_host:                 one-red-dog
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@one-red-dog.sms.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   15,200.0,10,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=546:55:18, mem=120413.08421 GB s, io=17.00914 GB, vmem=805.281M, maxvmem=2.554G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435736
+exec_file:                  job_scripts/4435736
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   0,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=1293:19:45, mem=652256.65602 GB s, io=36.25056 GB, vmem=516.648M, maxvmem=2.023G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435737
+exec_file:                  job_scripts/4435737
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   1,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=1752:52:43, mem=647241.11816 GB s, io=31.95501 GB, vmem=811.250M, maxvmem=4.019G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435739
+exec_file:                  job_scripts/4435739
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   3,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=503:31:16, mem=170485.06114 GB s, io=21.53516 GB, vmem=1.722G, maxvmem=3.906G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435741
+exec_file:                  job_scripts/4435741
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   5,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=1049:32:06, mem=390053.71300 GB s, io=29.27458 GB, vmem=590.059M, maxvmem=2.601G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435743
+exec_file:                  job_scripts/4435743
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   7,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=2582:24:59, mem=1004835.04567 GB s, io=37.87732 GB, vmem=883.344M, maxvmem=4.469G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435744
+exec_file:                  job_scripts/4435744
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   8,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=1252:56:54, mem=427481.61588 GB s, io=38.63016 GB, vmem=1.071G, maxvmem=1.887G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435745
+exec_file:                  job_scripts/4435745
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   9,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=04:35:51, mem=988.03941 GB s, io=16.22297 GB, vmem=777.258M, maxvmem=777.258M
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435746
+exec_file:                  job_scripts/4435746
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   10,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=1404:39:06, mem=502783.06139 GB s, io=31.47308 GB, vmem=1.169G, maxvmem=3.444G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435747
+exec_file:                  job_scripts/4435747
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   11,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=3448:56:39, mem=987510.53649 GB s, io=33.68065 GB, vmem=1.549G, maxvmem=5.631G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435750
+exec_file:                  job_scripts/4435750
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   14,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=2531:27:38, mem=872200.00865 GB s, io=28.22510 GB, vmem=702.789M, maxvmem=3.847G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435751
+exec_file:                  job_scripts/4435751
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   15,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=484:17:50, mem=216266.09232 GB s, io=31.77200 GB, vmem=856.484M, maxvmem=3.621G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435754
+exec_file:                  job_scripts/4435754
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   18,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=974:44:30, mem=332815.66366 GB s, io=34.58664 GB, vmem=1.529G, maxvmem=7.174G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435756
+exec_file:                  job_scripts/4435756
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   20,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=784:25:09, mem=322450.32962 GB s, io=31.36916 GB, vmem=720.699M, maxvmem=2.666G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435757
+exec_file:                  job_scripts/4435757
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   21,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=1159:35:43, mem=357916.19725 GB s, io=35.20459 GB, vmem=726.684M, maxvmem=2.407G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435759
+exec_file:                  job_scripts/4435759
+submission_time:            Fri May 17 22:25:13 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   23,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=12:40:01, mem=10052.53028 GB s, io=16.45548 GB, vmem=2.886G, maxvmem=3.929G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435761
+exec_file:                  job_scripts/4435761
+submission_time:            Fri May 17 22:25:14 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   25,200.0.20,20,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=836:27:37, mem=247015.94196 GB s, io=21.97680 GB, vmem=1.141G, maxvmem=5.309G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435767
+exec_file:                  job_scripts/4435767
+submission_time:            Fri May 17 22:25:14 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   1,200.0.20,20,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=1502:35:11, mem=469161.78566 GB s, io=24.76450 GB, vmem=810.980M, maxvmem=4.296G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435769
+exec_file:                  job_scripts/4435769
+submission_time:            Fri May 17 22:25:14 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   3,200.0.20,20,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=2484:40:35, mem=894293.07817 GB s, io=35.11127 GB, vmem=1.292G, maxvmem=4.455G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435771
+exec_file:                  job_scripts/4435771
+submission_time:            Fri May 17 22:25:14 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   5,200.0.20,20,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=2119:07:47, mem=574423.10957 GB s, io=23.12637 GB, vmem=1.089G, maxvmem=5.210G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435773
+exec_file:                  job_scripts/4435773
+submission_time:            Fri May 17 22:25:14 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   7,200.0.20,20,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=2493:58:22, mem=867290.37857 GB s, io=30.48429 GB, vmem=747.520M, maxvmem=3.703G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435774
+exec_file:                  job_scripts/4435774
+submission_time:            Fri May 17 22:25:14 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   8,200.0.20,20,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=26:36:54, mem=11306.07865 GB s, io=19.75391 GB, vmem=3.222G, maxvmem=3.601G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435777
+exec_file:                  job_scripts/4435777
+submission_time:            Fri May 17 22:25:14 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   11,200.0.20,20,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=1778:51:34, mem=561272.03593 GB s, io=31.23625 GB, vmem=646.016M, maxvmem=2.402G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435780
+exec_file:                  job_scripts/4435780
+submission_time:            Fri May 17 22:25:14 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   14,200.0.20,20,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=2033:31:07, mem=614878.32540 GB s, io=28.95332 GB, vmem=1.873G, maxvmem=7.272G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435781
+exec_file:                  job_scripts/4435781
+submission_time:            Fri May 17 22:25:14 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   15,200.0.20,20,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=3467:37:05, mem=1127627.30770 GB s, io=37.11276 GB, vmem=1.259G, maxvmem=10.495G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4435782
+exec_file:                  job_scripts/4435782
+submission_time:            Fri May 17 22:25:14 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-3028408922e78cc9ca15ee761372a7c0603fa375/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   16,200.0.20,20,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=1328:24:56, mem=439619.20852 GB s, io=31.75745 GB, vmem=1.247G, maxvmem=5.067G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4436550
+exec_file:                  job_scripts/4436550
+submission_time:            Sun May 19 17:15:46 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-a48f464a3e01aad384703ec964018299b14bb7cf/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF_TEST.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   27,4500.0,450,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF_TEST.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=674:34:23, mem=441561.38900 GB s, io=24.45164 GB, vmem=2.289G, maxvmem=4.173G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4436551
+exec_file:                  job_scripts/4436551
+submission_time:            Sun May 19 17:15:46 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-a48f464a3e01aad384703ec964018299b14bb7cf/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF_TEST.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   28,4500.0,450,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF_TEST.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=2617:15:31, mem=1533471.25730 GB s, io=28.14114 GB, vmem=2.099G, maxvmem=6.955G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4436552
+exec_file:                  job_scripts/4436552
+submission_time:            Sun May 19 17:15:47 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-a48f464a3e01aad384703ec964018299b14bb7cf/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF_TEST.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   29,4500.0,450,0.2
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF_TEST.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=1213:31:10, mem=697218.45134 GB s, io=23.57484 GB, vmem=3.011G, maxvmem=3.790G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4436553
+exec_file:                  job_scripts/4436553
+submission_time:            Sun May 19 17:15:47 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-a48f464a3e01aad384703ec964018299b14bb7cf/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF_TEST.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   0,4500.0,450,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF_TEST.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=08:27:34, mem=5639.69972 GB s, io=17.52746 GB, vmem=1.424G, maxvmem=1.434G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4436554
+exec_file:                  job_scripts/4436554
+submission_time:            Sun May 19 17:15:47 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-a48f464a3e01aad384703ec964018299b14bb7cf/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF_TEST.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   1,4500.0,450,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF_TEST.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=1346:48:11, mem=754854.88306 GB s, io=18.45805 GB, vmem=2.289G, maxvmem=2.872G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4436555
+exec_file:                  job_scripts/4436555
+submission_time:            Sun May 19 17:15:47 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-a48f464a3e01aad384703ec964018299b14bb7cf/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF_TEST.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   2,4500.0,450,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF_TEST.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=426:07:14, mem=507894.41253 GB s, io=19.12661 GB, vmem=4.720G, maxvmem=6.450G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4436556
+exec_file:                  job_scripts/4436556
+submission_time:            Sun May 19 17:15:47 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-a48f464a3e01aad384703ec964018299b14bb7cf/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF_TEST.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   3,4500.0,450,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF_TEST.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=739:12:45, mem=894723.16295 GB s, io=18.54582 GB, vmem=6.547G, maxvmem=8.030G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4436558
+exec_file:                  job_scripts/4436558
+submission_time:            Sun May 19 17:15:47 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-a48f464a3e01aad384703ec964018299b14bb7cf/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF_TEST.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   5,4500.0,450,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF_TEST.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=2878:57:39, mem=2376305.22575 GB s, io=31.01624 GB, vmem=2.707G, maxvmem=4.658G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4436560
+exec_file:                  job_scripts/4436560
+submission_time:            Sun May 19 17:15:47 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-a48f464a3e01aad384703ec964018299b14bb7cf/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF_TEST.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   7,4500.0,450,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF_TEST.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=1137:36:05, mem=842347.38789 GB s, io=20.64591 GB, vmem=1.787G, maxvmem=1.901G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4436562
+exec_file:                  job_scripts/4436562
+submission_time:            Sun May 19 17:15:47 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-a48f464a3e01aad384703ec964018299b14bb7cf/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF_TEST.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   9,4500.0,450,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF_TEST.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=1271:11:25, mem=892324.47450 GB s, io=18.51686 GB, vmem=3.989G, maxvmem=4.427G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4436564
+exec_file:                  job_scripts/4436564
+submission_time:            Sun May 19 17:15:47 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-a48f464a3e01aad384703ec964018299b14bb7cf/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF_TEST.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   11,4500.0,450,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF_TEST.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=1695:45:26, mem=1116616.54063 GB s, io=30.66094 GB, vmem=2.287G, maxvmem=3.680G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4436565
+exec_file:                  job_scripts/4436565
+submission_time:            Sun May 19 17:15:47 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-a48f464a3e01aad384703ec964018299b14bb7cf/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF_TEST.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   12,4500.0,450,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF_TEST.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=2724:52:36, mem=2791151.02463 GB s, io=28.23396 GB, vmem=3.643G, maxvmem=9.231G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4436569
+exec_file:                  job_scripts/4436569
+submission_time:            Sun May 19 17:15:47 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-a48f464a3e01aad384703ec964018299b14bb7cf/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF_TEST.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   16,4500.0,450,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF_TEST.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=1064:07:16, mem=1074758.03800 GB s, io=21.71837 GB, vmem=2.781G, maxvmem=7.250G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4436571
+exec_file:                  job_scripts/4436571
+submission_time:            Sun May 19 17:15:47 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-a48f464a3e01aad384703ec964018299b14bb7cf/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF_TEST.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   18,4500.0,450,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF_TEST.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=625:38:29, mem=391845.36011 GB s, io=23.75881 GB, vmem=4.515G, maxvmem=4.723G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4436572
+exec_file:                  job_scripts/4436572
+submission_time:            Sun May 19 17:15:47 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-a48f464a3e01aad384703ec964018299b14bb7cf/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF_TEST.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   19,4500.0,450,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF_TEST.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=515:18:17, mem=397635.33784 GB s, io=22.88735 GB, vmem=2.699G, maxvmem=7.181G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4436574
+exec_file:                  job_scripts/4436574
+submission_time:            Sun May 19 17:15:47 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-a48f464a3e01aad384703ec964018299b14bb7cf/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF_TEST.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   21,4500.0,450,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF_TEST.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=686:09:46, mem=399546.65646 GB s, io=20.54097 GB, vmem=1.129G, maxvmem=1.633G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4436576
+exec_file:                  job_scripts/4436576
+submission_time:            Sun May 19 17:15:47 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-a48f464a3e01aad384703ec964018299b14bb7cf/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF_TEST.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   23,4500.0,450,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF_TEST.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=897:05:24, mem=574018.77392 GB s, io=23.78462 GB, vmem=12.796G, maxvmem=12.936G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4436577
+exec_file:                  job_scripts/4436577
+submission_time:            Sun May 19 17:15:47 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-a48f464a3e01aad384703ec964018299b14bb7cf/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF_TEST.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   24,4500.0,450,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF_TEST.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=583:39:15, mem=521733.46763 GB s, io=20.86128 GB, vmem=1.860G, maxvmem=2.675G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4436578
+exec_file:                  job_scripts/4436578
+submission_time:            Sun May 19 17:15:47 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-a48f464a3e01aad384703ec964018299b14bb7cf/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF_TEST.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   25,4500.0,450,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF_TEST.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=888:10:52, mem=634189.15656 GB s, io=26.65974 GB, vmem=3.251G, maxvmem=4.496G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4436579
+exec_file:                  job_scripts/4436579
+submission_time:            Sun May 19 17:15:47 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-a48f464a3e01aad384703ec964018299b14bb7cf/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF_TEST.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   26,4500.0,450,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF_TEST.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=589:36:23, mem=339879.32638 GB s, io=17.46135 GB, vmem=2.031G, maxvmem=2.445G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4436580
+exec_file:                  job_scripts/4436580
+submission_time:            Sun May 19 17:15:47 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-a48f464a3e01aad384703ec964018299b14bb7cf/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF_TEST.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   27,4500.0,450,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF_TEST.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=1045:32:00, mem=672402.80393 GB s, io=25.50564 GB, vmem=3.117G, maxvmem=6.194G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4436581
+exec_file:                  job_scripts/4436581
+submission_time:            Sun May 19 17:15:47 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-a48f464a3e01aad384703ec964018299b14bb7cf/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF_TEST.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   28,4500.0,450,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF_TEST.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=482:12:03, mem=306332.09567 GB s, io=23.21161 GB, vmem=1.291G, maxvmem=1.914G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4438345
+exec_file:                  job_scripts/4438345
+submission_time:            Tue May 21 14:00:02 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-a48f464a3e01aad384703ec964018299b14bb7cf/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   20,200.0.20,20,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=2154:51:55, mem=602979.92850 GB s, io=32.55409 GB, vmem=1.606G, maxvmem=5.151G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4438346
+exec_file:                  job_scripts/4438346
+submission_time:            Tue May 21 14:00:02 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-a48f464a3e01aad384703ec964018299b14bb7cf/server/bin/remote-cli:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   9,200.0.20,20,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=932:47:23, mem=330037.96923 GB s, io=37.92170 GB, vmem=517.570M, maxvmem=1.787G
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4445213
+exec_file:                  job_scripts/4445213
+submission_time:            Mon May 27 14:11:16 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-f209ce35ef894bd32c12057724e8d1f1139c433f/server/bin/remote-cli:/home/zhangyuye/fsl/share/fsl/bin:/home/zhangyuye/fsl/share/fsl/bin:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF_TEST.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   9,200.1.10,10,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF_TEST.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=117:18:37, mem=31579.34220 GB s, io=17.54400 GB, vmem=728.527M, maxvmem=745.312M
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
+==============================================================
+job_number:                 4445215
+exec_file:                  job_scripts/4445215
+submission_time:            Mon May 27 14:11:16 2024
+owner:                      zhangyuye
+uid:                        41504
+group:                      students
+gid:                        25
+sge_o_home:                 /home/zhangyuye
+sge_o_log_name:             zhangyuye
+sge_o_path:                 /usr/pkg/sge/bin:/usr/pkg/sge/bin/UNSUPPORTED-6.6.7-arch1-1lx-amd64:/local/scratch/zhangyuye/conda/bin:/home/zhangyuye/.vscode-server-insiders/cli/servers/Insiders-f209ce35ef894bd32c12057724e8d1f1139c433f/server/bin/remote-cli:/home/zhangyuye/fsl/share/fsl/bin:/home/zhangyuye/fsl/share/fsl/bin:/usr/pkg/java/bin:/usr/lib/jvm/java-17-openjdk/bin:/usr/local/bin:/usr/pkg/bin:/bin:/usr/bin:/usr/pkg/sbin
+sge_o_shell:                /bin/zsh
+sge_o_workdir:              /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog
+sge_o_host:                 greta-pt
+account:                    sge
+cwd:                        /vol/grid-solar/sgeusers/zhangyuye
+mail_list:                  zhangyuye@greta-pt.ecs.vuw.ac.nz
+notify:                     FALSE
+job_name:                   CCGP-MDWS-CoCF_TEST.sh
+jobshare:                   0
+restart:                    y
+shell_list:                 NONE:/bin/sh
+env_list:                   TERM=NONE
+job_args:                   11,200.1.10,10,0.8
+script_file:                /vol/grid-solar/sgeusers/zhangyuye/MDWS-CoCFog/CCGP-MDWS-CoCF_TEST.sh
+binding:                    NONE
+job_type:                   NONE
+usage         1:            cpu=117:46:05, mem=29910.33598 GB s, io=17.50997 GB, vmem=573.520M, maxvmem=583.066M
+binding       1:            NONE
+scheduling info:            (Collecting of scheduler job information is turned off)
