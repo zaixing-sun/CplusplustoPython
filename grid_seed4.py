@@ -10,7 +10,7 @@ def extract_qsub_commands(text):
     job_args_list = re.findall(job_args_pattern, text)
 
     if script_files and job_args_list and len(script_files) == len(job_args_list):
-        qsub_commands = [f"qsub {script_file} {job_args}" for script_file, job_args in zip(script_files, job_args_list)]
+        qsub_commands = [f"qsub {script_file} {job_args.replace(',',' ')}" for script_file, job_args in zip(script_files, job_args_list)]
         return qsub_commands
     else:
         return "Required parameters not found or mismatch in counts in the text."
