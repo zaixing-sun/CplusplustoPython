@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d.art3d import Poly3DCollection
 from matplotlib.animation import FuncAnimation
-
+from mpl_toolkits.mplot3d import Axes3D
 
 FONTSIZE = 10
 ALPHA = 0.75
@@ -163,11 +163,11 @@ def update(frame):
     ax2.tick_params(axis='both', which='major', labelsize=FONTSIZE)
     ax3.tick_params(axis='both', which='major', labelsize=FONTSIZE)
 
-# 创建动画
-ani = FuncAnimation(fig, update, frames=len(time_data), interval=100)
+# # 创建动画
+# ani = FuncAnimation(fig, update, frames=len(time_data), interval=100)
 
-plt.tight_layout()
-plt.show()
+# plt.tight_layout()
+# plt.show()
 
 # def plot_max_range(ax):
 #     # 绘制 y 轴方向的最大范围矩形
@@ -229,6 +229,9 @@ def plot_final_frame():
 
     for label in labels:
         ax1.text(label[0], label[1], label[2], label[3], color='black', ha='center', va='bottom', zorder=10, fontname='Times New Roman')
+
+    # 设置纵向压缩比例
+    ax1.get_proj = lambda: np.dot(Axes3D.get_proj(ax1), np.diag([1, 1, 0.75, 1]))
 
     # 更新 memory_usage 和 cpu_usage 数组
     for i, t in enumerate(time_data):
