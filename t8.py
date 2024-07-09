@@ -163,11 +163,11 @@ def update(frame):
     ax2.tick_params(axis='both', which='major', labelsize=FONTSIZE)
     ax3.tick_params(axis='both', which='major', labelsize=FONTSIZE)
 
-# # 创建动画
-# ani = FuncAnimation(fig, update, frames=len(time_data), interval=100)
+# 创建动画
+ani = FuncAnimation(fig, update, frames=len(time_data), interval=100)
 
-# plt.tight_layout()
-# plt.show()
+plt.tight_layout()
+plt.show()
 
 # def plot_max_range(ax):
 #     # 绘制 y 轴方向的最大范围矩形
